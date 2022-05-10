@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1611775656 source:/home/eandro/Documentos/2020.2/AtividadesED/Atividade07/Questao02/main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<limits>
+	"Matriz.h"
+
+1611542403 /home/eandro/Documentos/2020.2/AtividadesED/Atividade07/Questao02/Matriz.h
+
+1611791690 source:/home/eandro/Documentos/2020.2/AtividadesED/Atividade07/Questao02/Matriz.cpp
+	"Matriz.h"
+	<iostream>
+	<ostream>
+	<iomanip>
+
